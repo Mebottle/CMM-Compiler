@@ -1,0 +1,41 @@
+/*
+ * 这是一个CMM的语法错误集锦
+ */
+
+int[3] d                // error1
+double e = 3, f, g;
+int a, b;
+
+/*流程控制语句*/
+if(a > 4+5*2))          // error2
+{
+    double 3_b;         // error3
+    double b;
+    b = 23+(15*6-1/5;   // error4
+    write(a / b);
+}// end if
+else
+{
+    int c;
+    a = b;
+    read(3);            // error5
+}// end else
+
+while(a != b)
+{
+    int _a;
+    write();            // error6
+    _a = 32;
+    break;
+}// end while
+
+for(int e = 0; e < 2; e = e + 1)
+{
+    write(e);
+    3 = e;              // error7
+}
+
+while(a > 1)
+    int k = 3;          // error8
+
+/*程序结束*/

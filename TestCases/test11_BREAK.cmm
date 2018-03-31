@@ -1,0 +1,15 @@
+int j = 3;
+int a = 5;
+while(true)
+{
+    write(a);
+    if(j == 3)
+        break;
+}
+write(true+1);
+
+/*
+output:
+5
+2
+*/

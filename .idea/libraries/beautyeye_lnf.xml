@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="beautyeye_lnf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/beautyeye_lnf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/substance-4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
